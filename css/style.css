@@ -1,0 +1,143 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap");
+
+body {
+  font-family: "Lato", sans-serif;
+}
+h1 {
+  font-size: 60px;
+  font-weight: 700;
+}
+h2 {
+  font-size: 40px;
+  font-weight: 700;
+}
+h3 {
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.bold{
+  font-size: 26px;
+  font-weight: 400;
+}
+.top-nav{
+  border-bottom: 1px solid black;
+}
+.navbar {
+  
+  height: 130px;
+}
+.navbar h1 {
+  color: #232323;
+  font-size: 40px;
+  font-weight: 900;
+  width: 200px;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+.navbar ul li {
+  margin: 0 15px;
+  width: 80px;
+}
+.navbar ul a {
+  text-decoration: none;
+  color: black;
+  padding-bottom: 5px;
+  font-weight: 400;
+  font-size: 16px;
+  background: linear-gradient(0deg, currentcolor, currentcolor) bottom center
+    no-repeat;
+  background-size: 0px 1px;
+  transition: 0.5s;
+  text-transform: uppercase;
+}
+.navbar ul a:hover {
+  background-size: 100% 1px;
+  font-weight: 600;
+}
+.navbar .active {
+  background-size: 100% 1px;
+  font-weight: 600;
+}
+
+.button {
+  border: 1px solid black;
+  color: black;
+  text-align: center;
+  font-size: 18px;
+  padding: 10px;
+  width: 200px;
+  height: 50px;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: "\00bb";
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+  color: black;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+  color: black;
+}
+.custom-line {
+  width: 30%;
+  margin: 0 auto;
+}
+.download-links {
+  display: flex;
+  flex-direction: column;
+}
+.download-links div {
+  text-decoration: none;
+  color: black;
+  border: 1px solid black;
+  margin: 10px auto;
+  padding: 20px;
+  width: 80%;
+}
+.download-links div:hover {
+  background-color:black;
+  color:white;
+}
+.download-links div a{
+  text-decoration: none;
+  color: black;
+  
+}
+.download-links div:hover a{
+  color: white;
+}
+.footer{
+  border-top: 1px solid black;
+}
+
+.footer ul{
+  display: flex;
+}
+
+
+
