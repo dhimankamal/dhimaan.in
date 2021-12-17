@@ -273,5 +273,13 @@ p {
     font-size: 1rem;
    
   }
+  .navbar-links a {
+    font-size: 1.2rem;
+  }
+  .button {
+    width: 90%;
+    height: 50px;
+    
+  }
 
 }
