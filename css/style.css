@@ -148,6 +148,21 @@ p {
   display: none;
 }
 
+/* video */
+.iframe-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+  height: 0;
+}
+.iframe-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 @media screen and (max-width: 768px) {
   h1 {
     font-size: 2.5rem;
@@ -156,31 +171,31 @@ p {
     font-size: 1.6rem;
   }
 
-  .top-nav .navbar-links {
+  .top-nav #navbar-links {
     display: none;
   }
   .navbar .toggel-icon {
     display: inline-block;
     z-index: 2;
+    cursor: pointer;
   }
   .toggel-icon i {
     font-size: 2.5rem;
     cursor: pointer;
   }
   .navbar-links {
-    position: absolute;
+    position: fixed;
     flex-direction: column;
     top: 0;
     left: 0;
-    
+
     backdrop-filter: blur(30px);
-    -webkit-backdrop-filter: blur(30px) ;
-    transition:1s;
+    -webkit-backdrop-filter: blur(30px);
+    transition: 1s;
     width: 100%;
     height: 100vh;
     color: white;
     z-index: 1;
-
   }
   .navbar-links ul {
     flex-direction: column;
@@ -193,15 +208,21 @@ p {
   .navbar-links li a {
     font-size: 1.5rem;
   }
-  .navbar ul a:hover {
-    background-size: 0%;
-    font-weight: 400;
-  }
+ 
   .navbar-links a {
     font-size: 2rem;
   }
   .top-nav .navbar ul li {
     width: 100%;
   }
-  
+  .button {
+    
+    width: 90%;
+    height: 100px;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-decoration: auto;
+  }
 }

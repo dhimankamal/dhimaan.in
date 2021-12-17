@@ -5,6 +5,23 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" sizes="57x57" href="img/fevicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="img/fevicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="img/fevicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="img/fevicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="img/fevicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="img/fevicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="img/fevicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="img/fevicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="img/fevicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="img/fevicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/fevicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="img/fevicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/fevicon/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
 
     <!-- Bootstrap CSS -->
     <script src="https://kit.fontawesome.com/dcc60407e2.js" crossorigin="anonymous"></script>
@@ -30,7 +47,7 @@
                     </ul>
                     <a href="#" class="button"><span>Contact Us</span></a>
                 </div>
-                <div class="toggel-icon " onclick="showMe()">
+                <div class="toggel-icon" id="toggelbtn" onclick="showMe()">
                     <i class="fas fa-bars"></i>
                 </div>
             </div>
@@ -48,15 +65,19 @@
                     class="img-fluid" alt="ios image">
             </div>
             <hr class="custom-line">
-            <div class="my-5">
+            <div class="m-5">
                 <h2>Watch Video Tutorial</h2>
                 <p class="bold px-5 mb-5">Hey What's going on everybody, it's Dhiman back with most requested video on
                     our channel.iOS WhatsApp
                     (v9.05 beta 3) On Any Android</p>
-                <iframe width="92%" height="600" src="https://www.youtube.com/embed/0tlKzgNE-SI?controls=0"
-                    title="YouTube video player" frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen></iframe>
+                <div class="iframe-container">
+                    <iframe width="92%" height="600" src="https://www.youtube.com/embed/0tlKzgNE-SI?controls=0"
+                        title="YouTube video player" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe>
+
+                </div>
+
             </div>
             <hr class="custom-line">
             <div class="mt-5 download-links pb-5">
@@ -98,14 +119,31 @@
     <script>
         function showMe() {
             var foo = document.getElementById('navbar-links');
+            var togglebtn = document.getElementById('toggelbtn');
 
             if (foo.style.display == '' || foo.style.display == 'none') {
-                foo.style.display = 'block';
+                foo.style.display = 'flex';
+                togglebtn.style.position = 'fixed';
+                togglebtn.style.left = '90%';
             }
             else {
                 foo.style.display = 'none';
+                togglebtn.style.position = 'relative';
+                togglebtn.style.left = '0%';
             }
         }
+        var x = window.matchMedia("(max-width: 768px)");
+        function myFunction(x) {
+            if (x.matches) { // If media query matches
+                document.getElementById('navbar-links').style.display = 'none';
+            } else {
+                document.getElementById('navbar-links').style.display = 'flex';
+            }
+        }
+        myFunction(x);
+        x.addListener(myFunction);
+
+
     </script>
 
     <script>
