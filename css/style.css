@@ -208,7 +208,7 @@ p {
   .navbar-links li a {
     font-size: 1.5rem;
   }
- 
+
   .navbar-links a {
     font-size: 2rem;
   }
@@ -216,7 +216,6 @@ p {
     width: 100%;
   }
   .button {
-    
     width: 90%;
     height: 100px;
     cursor: pointer;
@@ -224,5 +223,38 @@ p {
     justify-content: center;
     display: flex;
     text-decoration: auto;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  h1 {
+    font-size: 1.8rem;
+  }
+  label {
+    font-size: 0.6rem;
+  }
+  .m-5 {
+    margin: 2rem 1rem !important;
+  }
+  h2 {
+    font-size: 1.2rem;
+  }
+  .bold {
+    font-size: 0.8rem;
+    font-weight: 400;
+  }
+  h3 {
+    font-size: 0.8rem;
+    font-weight: 500;
+  }
+  .footer {
+    justify-content: center;
+    align-items: center;
+  }
+  .mb-5 {
+    margin-bottom: 2rem !important;
+  }
+  .navbar {
+    height: 100px;
   }
 }
