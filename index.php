@@ -41,7 +41,7 @@
 
                 </div>
                 <div class="navbar-links text-center" id="navbar-links">
-                <?php include("../iOSphp/nav-links.php") ?>
+                    <?php include("../iOSphp/nav-links.php") ?>
                     <a href="https://www.instagram.com/dhimankaml/" class="button"><span>Contact Us</span></a>
                 </div>
                 <div class="toggel-icon" id="toggelbtn" onclick="showMe()">
@@ -55,13 +55,12 @@
             <div class="m-5">
                 <h1>iOS WhatsApp On Any Android</h1>
                 <hr class="custom-line">
-                <label class="m-2">Last Updated: 18 Dec 2021</label>
+                <label class="m-2">Last Updated: 20 Dec 2021</label>
             </div>
             <div class="m-5">
-                <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhuzdSKysx4EKRGNML8qg45SzsPYuNPwD7d081hxEzCqNm8m6oEo0PoE4oFu8ftg5EVs_f1xN8btyuCiwVLeOK4FGBzqtYSyoaSP7aTNX1b9hrZ1bIf4a3Zhvz457ak18CCBsHmEfjL83P2xEnDdh_JCG5JrewSPM_BRUbGyCuDSb9yquQAN4aC34dz_g=s1920"
-                    class="img-fluid" alt="ios image" height="1080" width="1920">
+                <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhuzdSKysx4EKRGNML8qg45SzsPYuNPwD7d081hxEzCqNm8m6oEo0PoE4oFu8ftg5EVs_f1xN8btyuCiwVLeOK4FGBzqtYSyoaSP7aTNX1b9hrZ1bIf4a3Zhvz457ak18CCBsHmEfjL83P2xEnDdh_JCG5JrewSPM_BRUbGyCuDSb9yquQAN4aC34dz_g=s1920" class="img-fluid" alt="ios image" height="1080" width="1920">
             </div>
-       
+
             <hr class="custom-line">
             <div class="mt-5 download-links pb-5">
                 <h2 class="mb-5">Latest Version</h2>
@@ -80,7 +79,7 @@
                         <h3> iOS 15 WhatsApp On Android // v8.96 </h3>
                     </a>
                 </div>
-              
+
             </div>
             <hr class="custom-line">
             <div class="m-5">
@@ -88,10 +87,7 @@
                 <p class="bold px-5 mb-5">Hey What's going on everybody, it's Dhiman back with most requested video on
                     our channel Latest iOS WhatsApp On Any Android</p>
                 <div class="iframe-container">
-                    <iframe width="92%" height="600" src="https://www.youtube.com/embed/0tlKzgNE-SI?controls=0"
-                        title="YouTube video player" frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen></iframe>
+                    <iframe width="92%" height="600" src="https://www.youtube.com/embed/0tlKzgNE-SI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
                 </div>
 
@@ -100,31 +96,29 @@
             <div class="m-5">
                 <h2>About</h2>
                 <p class="bold px-3 mb-5">Dhiman Kamal is a multi-platform technology Channel. We make videos for everyone, not just for techies. And we post them everywhere. Subscribe for a decent helping of tech features, first look and hands-on videos, unboxings, gadget reviews, tips, tricks,Rom Review,Nova Setups and Android Customisations.</p>
-                
+
             </div>
             <hr class="custom-line">
             <div class="m-5">
                 <h2>Tags</h2>
                 <p class="bold px-3 mb-5">Dhiman Kamal,iOS WhatsApp For Android,iPhone WhatsApp For Android,iOS WhatsApp On Android,iPhone 13 WhatsApp For Android,iOS 15 Theme For WhatsApp,iOS WhatsApp,iOS WhatsApp New Update,iPhone WhatsApp,WhatsApp Update,WhatsApp Hidden Features</p>
-                
+
             </div>
 
         </div>
     </section>
     <section class="container mt-5">
         <div class="footer navbar">
-        <?php include("../iOSphp/nav-links.php") ?>
+            <?php include("../iOSphp/nav-links.php") ?>
             <div class="navbar-logo">
                 <span>Dhimaan</span>
             </div>
-          
+
         </div>
 
 
     </section>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
-        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     <script>
         function showMe() {
             var foo = document.getElementById('navbar-links');
@@ -134,14 +128,14 @@
                 foo.style.display = 'flex';
                 togglebtn.style.position = 'fixed';
                 togglebtn.style.left = '90%';
-            }
-            else {
+            } else {
                 foo.style.display = 'none';
                 togglebtn.style.position = 'relative';
                 togglebtn.style.left = '0%';
             }
         }
         var x = window.matchMedia("(max-width: 768px)");
+
         function myFunction(x) {
             if (x.matches) { // If media query matches
                 document.getElementById('navbar-links').style.display = 'none';
@@ -151,8 +145,6 @@
         }
         myFunction(x);
         x.addListener(myFunction);
-
-
     </script>
 
     <script>
