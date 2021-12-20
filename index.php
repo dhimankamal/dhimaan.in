@@ -25,8 +25,8 @@
 
     <!-- Bootstrap CSS -->
     <script src="https://kit.fontawesome.com/dcc60407e2.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="./css/bootstrap.css" class="css">
-    <link rel="stylesheet" href="./css/style.css" class="css">
+    <link rel="stylesheet" href="../iOSphp/css/bootstrap.css" class="css">
+    <link rel="stylesheet" href="../iOSphp/css/style.css" class="css">
     <title>iOS WhatsApp On Any Android - Dhimaan</title>
     <meta name="description" content="Hey What's going on everybody, it's Dhiman back with most requested video on our channel Latest iOS WhatsApp On Any Android">
 
@@ -41,11 +41,7 @@
 
                 </div>
                 <div class="navbar-links text-center" id="navbar-links">
-                    <ul>
-                        <li><a href="https://dhimaan.in/ioswhatsapp/" class="active">Whatsapp</a></li>
-                        <li><a href="https://dhimaan.in/iosinstagram/">Instagram</a></li>
-                        <li><a href="https://www.dhimankamal.com/2021/05/ios-snapchat-for-android-iphone.html">Snapchat</a></li>
-                    </ul>
+                <?php include("../iOSphp/nav-links.php") ?>
                     <a href="https://www.instagram.com/dhimankaml/" class="button"><span>Contact Us</span></a>
                 </div>
                 <div class="toggel-icon" id="toggelbtn" onclick="showMe()">
@@ -117,11 +113,7 @@
     </section>
     <section class="container mt-5">
         <div class="footer navbar">
-            <ul>
-                <li><a href="https://dhimaan.in/ioswhatsapp/" >Whatsapp</a></li>
-                <li><a href="https://dhimaan.in/iosinstagram/">Instagram</a></li>
-                <li><a href="https://www.dhimankamal.com/2021/05/ios-snapchat-for-android-iphone.html">Snapchat</a></li>
-            </ul>
+        <?php include("../iOSphp/nav-links.php") ?>
             <div class="navbar-logo">
                 <span>Dhimaan</span>
             </div>
