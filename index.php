@@ -55,18 +55,23 @@
             <div class="m-5">
                 <h1>iOS WhatsApp On Any Android</h1>
                 <hr class="custom-line">
-                <label class="m-2">Last Updated: 20 Dec 2021</label>
+                <label class="m-2">Last Updated: 21 Dec 2021</label>
             </div>
             <div class="m-5">
-                <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhuzdSKysx4EKRGNML8qg45SzsPYuNPwD7d081hxEzCqNm8m6oEo0PoE4oFu8ftg5EVs_f1xN8btyuCiwVLeOK4FGBzqtYSyoaSP7aTNX1b9hrZ1bIf4a3Zhvz457ak18CCBsHmEfjL83P2xEnDdh_JCG5JrewSPM_BRUbGyCuDSb9yquQAN4aC34dz_g=s1920" class="img-fluid" alt="ios image" height="1080" width="1920">
+                <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhPIVwqXQftRuaWYX6uf3smbLuE8RRlWK177wOYoOXBQR4CvbpjnAmZU7I8i4jCxu2casSq9gzM50b3zm8URiS87AB2uFuYsbBrGJB70IJ7UcMyBEieq066LgpHEEYlSCgysZ3xGEYrEj034J3lbAjK8EU4eNaSwWsepzYbheJZ7B5bcyEVJE2i_kjd4g=s1280" class="img-fluid" alt="ios image" height="1080" width="1920">
             </div>
 
             <hr class="custom-line">
             <div class="mt-5 download-links pb-5">
                 <h2 class="mb-5">Latest Version</h2>
                 <div>
+                    <a href="https://www.dhimankamal.com/2021/12/ios-15-whatsapp-for-android-v911.html">
+                        <h3> iOS 15 WhatsApp For Android // v9.11 </h3>
+                    </a>
+                </div>
+                <div>
                     <a href="https://www.dhimankamal.com/2021/12/ios-whatsapp-v91-on-any-android.html">
-                        <h3> iOS 15 WhatsApp On Android // 9.1 </h3>
+                        <h3> iOS 15 WhatsApp On Android // 9.01 </h3>
                     </a>
                 </div>
                 <div>
