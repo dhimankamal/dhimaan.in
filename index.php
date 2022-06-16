@@ -56,7 +56,7 @@
             <div class="m-5">
                 <h1>iOS WhatsApp On Any Android</h1>
                 <hr class="custom-line">
-                <label class="m-2">Last Updated: 29 Mar 2022</label>
+                <label class="m-2">Last Updated: 29 Mar  2022</label>
             </div>
             <div class="m-5">
                 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs_ucVcNaMG1MmQ3BJ2PHvLfMSZwwY0u9jbb3dOsIahhaLZ7iYBq1YB7P-QvS0dJCNYJA_p99sqxn0UWU6KSNQvLx4gZmqzkwRhbkkLYnC8eaRfW8xVAU0EHifHdEFuLu7Tys7RWxB-lJEkE1Hstg0BeXwL_0K6cmXnZfYqSNzsglmHm-4H5YWKRYNWg/s1786/Thumb.jpg" class="img-fluid" alt="ios image" height="1080" width="1920">
@@ -65,6 +65,11 @@
             <hr class="custom-line">
             <div class="mt-5 download-links pb-5">
                 <h2 class="mb-5">Latest Version</h2>
+                <div>
+                    <a href="https://www.dhimankamal.com/2022/06/ios-whatsapp-v8301-on-any-android.html">
+                        <h3> iOS WhatsApp (v9.30.1) On Any Android </h3>
+                    </a>
+                </div>
                 <div>
                     <a href="https://www.dhimankamal.com/2022/03/ios-15-whatsapp-for-android-v9251.html">
                         <h3> iOS 15 WhatsApp For Android // v9.25.1 </h3>
