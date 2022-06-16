@@ -56,7 +56,7 @@
             <div class="m-5">
                 <h1>iOS WhatsApp On Any Android</h1>
                 <hr class="custom-line">
-                <label class="m-2">Last Updated: 29 Mar  2022</label>
+                <label class="m-2">Last Updated: 16 June  2022</label>
             </div>
             <div class="m-5">
                 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs_ucVcNaMG1MmQ3BJ2PHvLfMSZwwY0u9jbb3dOsIahhaLZ7iYBq1YB7P-QvS0dJCNYJA_p99sqxn0UWU6KSNQvLx4gZmqzkwRhbkkLYnC8eaRfW8xVAU0EHifHdEFuLu7Tys7RWxB-lJEkE1Hstg0BeXwL_0K6cmXnZfYqSNzsglmHm-4H5YWKRYNWg/s1786/Thumb.jpg" class="img-fluid" alt="ios image" height="1080" width="1920">
