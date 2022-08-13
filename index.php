@@ -56,7 +56,7 @@
             <div class="m-5">
                 <h1>iOS WhatsApp On Any Android</h1>
                 <hr class="custom-line">
-                <label class="m-2">Last Updated: 16 June  2022</label>
+                <label class="m-2">Last Updated: 13 Aug 2022</label>
             </div>
             <div class="m-5">
                 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs_ucVcNaMG1MmQ3BJ2PHvLfMSZwwY0u9jbb3dOsIahhaLZ7iYBq1YB7P-QvS0dJCNYJA_p99sqxn0UWU6KSNQvLx4gZmqzkwRhbkkLYnC8eaRfW8xVAU0EHifHdEFuLu7Tys7RWxB-lJEkE1Hstg0BeXwL_0K6cmXnZfYqSNzsglmHm-4H5YWKRYNWg/s1786/Thumb.jpg" class="img-fluid" alt="ios image" height="1080" width="1920">
@@ -67,16 +67,21 @@
                 <h2 class="mb-5">Latest Version</h2>
 	  <div>
 		    <script type="text/javascript">
-	atOptions = {
-		'key' : '213671228bcb14c49bc6b8826c282202',
-		'format' : 'iframe',
-		'height' : 50,
-		'width' : 320,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivecreativeformats.com/213671228bcb14c49bc6b8826c282202/invoke.js"></scr' + 'ipt>');
-</script>
+		atOptions = {
+			'key' : '213671228bcb14c49bc6b8826c282202',
+			'format' : 'iframe',
+			'height' : 50,
+			'width' : 320,
+			'params' : {}
+		};
+		document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivecreativeformats.com/213671228bcb14c49bc6b8826c282202/invoke.js"></scr' + 'ipt>');
+	</script>
           </div>
+		<div>
+                    <a href="https://www.dhimankamal.com/2022/08/ios-whatsapp-vv935-on-any-android.html">
+                        <h3> iOS WhatsApp (v9.35) On Any Android </h3>
+                    </a>
+                </div>
              
                 <div>
                     <a href="https://www.dhimankamal.com/2022/06/ios-whatsapp-v8301-on-any-android.html">
@@ -98,11 +103,7 @@
                         <h3> iOS 15 WhatsApp For Android // v9.11 </h3>
                     </a>
                 </div>
-                <div>
-                    <a href="https://www.dhimankamal.com/2021/12/ios-whatsapp-v91-on-any-android.html">
-                        <h3> iOS 15 WhatsApp On Android // 9.01 </h3>
-                    </a>
-                </div>
+           
 		 <div>
 			 <script type="text/javascript">
 	atOptions = {
