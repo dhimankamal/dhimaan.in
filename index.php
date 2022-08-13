@@ -71,7 +71,7 @@
 		'key' : '213671228bcb14c49bc6b8826c282202',
 		'format' : 'iframe',
 		'height' : 50,
-		'width' : 320,
+		'width' : 100%,
 		'params' : {}
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivecreativeformats.com/213671228bcb14c49bc6b8826c282202/invoke.js"></scr' + 'ipt>');
@@ -108,7 +108,7 @@
 		'key' : 'aa4f3d6ebcb4f4899d4e1adc84774dc8',
 		'format' : 'iframe',
 		'height' : 60,
-		'width' : 468,
+		'width' : 100%,
 		'params' : {}
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivecreativeformats.com/aa4f3d6ebcb4f4899d4e1adc84774dc8/invoke.js"></scr' + 'ipt>');
