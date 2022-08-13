@@ -65,6 +65,16 @@
             <hr class="custom-line">
             <div class="mt-5 download-links pb-5">
                 <h2 class="mb-5">Latest Version</h2>
+                <script type="text/javascript">
+	atOptions = {
+		'key' : 'd0a14b99d25eb5d2b22ff9039eacf6e4',
+		'format' : 'iframe',
+		'height' : 300,
+		'width' : 160,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivecreativeformats.com/d0a14b99d25eb5d2b22ff9039eacf6e4/invoke.js"></scr' + 'ipt>');
+</script>
                 <div>
                     <a href="https://www.dhimankamal.com/2022/06/ios-whatsapp-v8301-on-any-android.html">
                         <h3> iOS WhatsApp (v9.30.1) On Any Android </h3>
