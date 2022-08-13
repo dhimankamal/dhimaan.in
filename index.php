@@ -65,15 +65,15 @@
             <hr class="custom-line">
             <div class="mt-5 download-links pb-5">
                 <h2 class="mb-5">Latest Version</h2>
-                <script type="text/javascript">
+               <script type="text/javascript">
 	atOptions = {
-		'key' : 'd0a14b99d25eb5d2b22ff9039eacf6e4',
+		'key' : '213671228bcb14c49bc6b8826c282202',
 		'format' : 'iframe',
-		'height' : 300,
-		'width' : 160,
+		'height' : 50,
+		'width' : 320,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivecreativeformats.com/d0a14b99d25eb5d2b22ff9039eacf6e4/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivecreativeformats.com/213671228bcb14c49bc6b8826c282202/invoke.js"></scr' + 'ipt>');
 </script>
                 <div>
                     <a href="https://www.dhimankamal.com/2022/06/ios-whatsapp-v8301-on-any-android.html">
