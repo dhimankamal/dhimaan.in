@@ -60,7 +60,7 @@
                 <label class="m-2">Last Updated: 13 Aug 2022</label>
             </div>
             <div class="m-5">
-                <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs_ucVcNaMG1MmQ3BJ2PHvLfMSZwwY0u9jbb3dOsIahhaLZ7iYBq1YB7P-QvS0dJCNYJA_p99sqxn0UWU6KSNQvLx4gZmqzkwRhbkkLYnC8eaRfW8xVAU0EHifHdEFuLu7Tys7RWxB-lJEkE1Hstg0BeXwL_0K6cmXnZfYqSNzsglmHm-4H5YWKRYNWg/s1786/Thumb.jpg" class="img-fluid" alt="ios image" height="1080" width="1920">
+                <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEissJ9pFJUUpwPG8dmhvjjG-56UzopO8kCR0rMMSqatya1aiSrmFJxgsNSx5lVUeJipyW_OXzHx2lzFJ1fwFL1dW5fWCOo25gnrsXxtNuKArBzn8MmHB_0fjpkEItMLlzqKWNj70nI8PCZmXEWbcbNhyiCKKpzT58ex39sETe7uggJRXt1-eZMea9GG4w/s1920/i%20update.jpg" class="img-fluid" alt="ios image" height="1080" width="1920">
             </div>
 
             <hr class="custom-line">
